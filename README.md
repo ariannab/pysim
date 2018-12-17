@@ -8,6 +8,6 @@ Set up a virtual environment:
 
 Here install any dependency needed (pyemd, numpy, etc). Then launch with
 
-```pytohn wmd_interactive.py ```
+```python wmd_interactive.py ```
 
 And wait a few seconds to be asked the sentences in input. The output is their distance.
